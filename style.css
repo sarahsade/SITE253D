@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f0f8ff;
+  text-align: center;
+}
+
+header {
+  background-color: #008cba;
+  color: white;
+  padding: 20px;
+}
+
+.logo {
+  width: 80px;
+  vertical-align: middle;
+}
+
+.banner img {
+  width: 100%;
+  max-height: 300px;
+  object-fit: cover;
+}
+
+.conteudo {
+  padding: 20px;
+}
+
+.fundo {
+  width: 100%;
+  max-width: 600px;
+  margin-top: 20px;
+}
+
+.icone-user {
+  width: 30px;
+  vertical-align: middle;
+}
